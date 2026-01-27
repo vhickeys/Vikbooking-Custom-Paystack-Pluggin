@@ -1,4 +1,4 @@
-PART 3 — How to install it (STEP BY STEP)
+How to install it (STEP BY STEP)
 ✅ Method 1 (RECOMMENDED – safest)
 
 Zip the folder:
